@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/tJKk0QS/Fun-Pay-API-darkmode.png">
 <h1 align="center">FunPay API</h1>
-<h4 align="center">Библиотека для легкого написания ботов FunPay.</h4>
+<h4 align="center">Библиотека для легкого написания ботов FunPay с фиксами</h4>
 
 <h1 align="center">Важные ссылки</h1>
 <h4 align="center">
